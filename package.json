@@ -1,0 +1,16 @@
+{
+  "name": "curl_node",
+  "version": "1.0.0",
+  "description": "Curl like implementation using node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Haggai",
+  "license": "ISC",
+  "dependencies": {
+    "http-digest-client": "^0.0.3",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
